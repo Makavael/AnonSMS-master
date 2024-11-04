@@ -61,7 +61,7 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/Makavael/Anon-SMS.git
 cd Anon-SMS
 bash Run.sh
 ```
@@ -97,7 +97,7 @@ Feel Free To Open An Issue...
       Facebook: https://www.facebook.com/BloodServer
 ```
 
-<a href="https://www.youtube.com/Makavael">Check Out Our YouTube Channel</a><br>
+<a href="https://www.youtube.com/@Roothustle">Check Out Our YouTube Channel</a><br>
 <a href="https://t.me/Makavael">Check Out Our Telegram Discussion</a><br><br>
 
 
