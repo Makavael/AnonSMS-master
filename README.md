@@ -78,26 +78,27 @@ Commands below provide instructions for Debian-based systems.
 To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/Makavael/AnonSMS-master
 cd Anon-SMS
 sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
 
 - **HACK3RY2J**<br>
-[@] Mail At: HACK3RY2J@gmail.com
+[@] Mail At: administrator@webveli.com
 
 # CONTACT ME:
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: HACK3RY2J@gmail.com
-      YouTube Channel: https://www.youtube.com/c/PandaHackers
+                 Mail: administrator@webveli.com
+
+      Facebook: https://www.facebook.com/BloodServer
 ```
 
-<a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a><br><br>
+<a href="https://www.youtube.com/Makavael">Check Out Our YouTube Channel</a><br>
+<a href="https://t.me/Makavael">Check Out Our Telegram Discussion</a><br><br>
 
 
-<a href="https://www.buymeacoffee.com/HACK3RY2J"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=HACK3RY2J&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/Makavael"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=HACK3RY2J&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
